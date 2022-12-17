@@ -1,0 +1,41 @@
+{
+  "name": "pensiev",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@hookform/error-message": "^2.0.0",
+    "@hookform/resolvers": "^2.9.7",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "@mui/styled-engine-sc": "^5.11.0",
+    "@mui/styles": "^5.11.0",
+    "@next/font": "13.0.7",
+    "axios": "^1.2.1",
+    "chart.js": "^4.1.0",
+    "crypto-js": "^4.1.1",
+    "framer-motion": "^7.10.2",
+    "jquery": "^3.6.0",
+    "next": "13.0.7",
+    "nextjs-progressbar": "^0.0.15",
+    "nprogress": "^0.2.0",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.0.1",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.34.0",
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0",
+    "styled-components": "^5.3.6",
+    "sweetalert2": "^11.4.24",
+    "yup": "^0.32.11"
+  }
+}
